@@ -1,3 +1,6 @@
+Git and GitHub tutorial taught by Melissa Hovik 
+https://github.com/medskm/github-tutorial
+
 # Git Exploration Session
 
 ## What is Git?
